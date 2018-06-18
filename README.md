@@ -1,2 +1,2 @@
 # Python-Scripts
-Making python scripts for linux porpuses
+Making python scripts for linux purpuses
