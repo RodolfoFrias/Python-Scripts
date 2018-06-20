@@ -1,3 +1,7 @@
-import modulo
+from modulo import sum, prodl
 
-print(modulo.counter)
+cero = [0 for i in range(5)]
+uno = [1 for i in range(5)]
+
+print(sum(cero))
+print(prodl(uno))
